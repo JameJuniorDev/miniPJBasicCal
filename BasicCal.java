@@ -31,7 +31,7 @@ public static void main(String[] args) {
             default:System.out.println("Ok Continue");break;
         }
     }
-    System.out.println("\t=== ***End*** ===");
+    System.out.println("\t=== *** End *** ===");
     sc.close();
 }
     
